@@ -1,0 +1,16 @@
+Bo Qian: C++ (11) Threading series
+https://www.youtube.com/playlist?list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M
+
+Herb Sutter: "atomic Waepons", 1 & 2
+https://www.youtube.com/watch?v=A8eCGOqgvH4
+https://www.youtube.com/watch?v=KeLBd2EJLOU
+
+Herb Sutter: "Lock-Free Programming (or, Juggling Razor Blades)", I & II
+https://www.youtube.com/watch?v=c1gO9aB9nbs
+https://www.youtube.com/watch?v=CmxkPChOcvw
+
+Andrei Alexandrescu “std::allocator...”
+https://www.youtube.com/watch?v=LIb3L4vKZ7U
+
+oneTBB
+https://github.com/oneapi-src/oneTBB
